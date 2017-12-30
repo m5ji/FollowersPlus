@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array">
+        <item>higher than</item>
+        <item>lower than</item>
+    </string-array>
+</resources>
